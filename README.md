@@ -1,2 +1,3 @@
-# Senac_Projeto_Testes
-Projeto de testes do curso Jovem Programador do Senac
+# Curso Jovem Programador - Programa de Teste
+Projeto curso Jovem Programador do Senac.
+Este projeto tem como foco o aprendizado em testes automatizados, com o framework JUnit 5.
