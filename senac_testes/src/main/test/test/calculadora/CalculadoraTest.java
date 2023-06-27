@@ -1,4 +1,4 @@
-package test.Calculadora;
+package test.calculadora;
 
 import org.example.Calculadora;
 import org.junit.jupiter.api.Assertions;
